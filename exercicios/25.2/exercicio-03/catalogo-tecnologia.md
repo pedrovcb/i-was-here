@@ -33,6 +33,7 @@
 - JavaScript - exemplo
 - Go - @phpedruo
 
+
 ---
 
 ## Empresas do ecossistema (Recife / Porto Digital)
@@ -46,3 +47,4 @@
 
 - Unity - exemplo
 - React - exemplo
+- Jungle - sofiavillelav@gmail.com
