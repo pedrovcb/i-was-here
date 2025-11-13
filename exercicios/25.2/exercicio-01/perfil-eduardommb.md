@@ -11,4 +11,3 @@
 - Enxadrista amador
 - Admirador da sétima arte  
 - Sei Libras
-
