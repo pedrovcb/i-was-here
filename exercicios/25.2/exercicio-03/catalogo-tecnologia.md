@@ -33,13 +33,16 @@
 - JavaScript - exemplo
 - Go - @phpedruo
 - c++ - @joaomafraa
-
----
+- C++ - @jffn-web
+- C - @beatrizloyola
+- Lua (Roblox) - @LarissaGiovanna
+- Julia (EXISTE SIM ESSA LINGUAGEM DE PROGRAMAÇÃO) - @juliatenoriocalado
 
 ## Empresas do ecossistema (Recife / Porto Digital)
 
 - CESAR - exemplo
 - CESAR School - exemplo
+- Avanade
 
 ---
 
@@ -47,3 +50,4 @@
 
 - Unity - exemplo
 - React - exemplo
+- Jungle - sofiavillelav@gmail.com
